@@ -175,20 +175,20 @@ Shery.makeMagnet(".magnet");
 
 function homeAnimation() {
     var tl = gsap.timeline()
-    // tl.from(".home",{
-    //     transform:"scaleX(.7) translateY(90%)",
-    //     borderRadius:"100px",
-    //     duration:2.5,
-    //     ease: "expo.out"
-    // })
-    // tl.from(".nav",{
-    //     y:-100,
-    //     stagger:0.2,
-    //     duration:0.8
-    // })
-    // tl.from(".home div",{
-    //     opacity: 0
-    // })
+    tl.from(".home",{
+        transform:"scaleX(.7) translateY(90%)",
+        borderRadius:"100px",
+        duration:2.5,
+        ease: "expo.out"
+    })
+    tl.from(".nav",{
+        y:-100,
+        stagger:0.2,
+        duration:0.8
+    })
+    tl.from(".home div",{
+        opacity: 0
+    })
     tl.from(".avinasxhhh h1 span", {
         y: 300,
         stagger: 0.2,
@@ -337,10 +337,11 @@ function projectAnimation() {
         scrollTrigger: {
             trigger: ".projects",
             // markers:true,
-            top: "top center",
-            end: "bottom top",
-            pin: true,
-            scrub: 4
+            start: "top 40%",
+            end:"top top",
+            scrub:2,
+            // pin:true 
+        
         }
     })
 
@@ -359,10 +360,15 @@ function projectAnimation() {
         duration: 4,
         ease: "expo.out"
     }, "a")
-    tl.from('.p-name', {
-        y: -50,
-        stagger: 0.5,
-        duration: 2
+    tl.from('.p-names', {
+        y: -30,
+        stagger: 0.2,
+        duration: 0.2
+    })
+    tl.from('.t-names', {
+        y: -30,
+        stagger: 0.2,
+        duration: 0.2
     })
 
     var Btn = document.querySelector(".b-btn")
@@ -469,25 +475,25 @@ function projectPageAnimations() {
         duration: 3
     }, "a")
     gsap.to(".boxx1", {
-        scrollTrigger:".boxx1",
+        scrollTrigger: ".boxx1",
         y: -700,
         duration: 5,
         ease: "expo.out"
     })
     gsap.to(".boxx2", {
-        scrollTrigger:".boxx2",
+        scrollTrigger: ".boxx2",
         y: -700,
         duration: 5,
         ease: "expo.out"
     })
     gsap.to(".boxx3", {
-        scrollTrigger:".boxx3",
+        scrollTrigger: ".boxx3",
         y: -700,
         duration: 5,
         ease: "expo.out"
     })
     gsap.to(".boxx4", {
-        scrollTrigger:".boxx4",
+        scrollTrigger: ".boxx4",
         y: -700,
         duration: 5,
         ease: "expo.out"
@@ -500,8 +506,9 @@ function projectPageAnimations() {
 }
 projectPageAnimations();
 
-loco();
 
+
+loco();
 
 
 
