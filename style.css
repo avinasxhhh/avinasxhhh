@@ -73,12 +73,15 @@ body[theme="black"] .section {
     writing-mode: vertical-rl;
 }
 
-.one, .h-text {
+.one, .h-text{
     -webkit-text-stroke: 1px var(--para);
 }
 
-.surname-m {
+.surname-m{
     -webkit-text-stroke: 2px var(--para);
+}
+.bg-textprojects{
+    -webkit-text-stroke: 3px var(--para);
 }
 
 .foot-1, .foot-2, .foot-3{
