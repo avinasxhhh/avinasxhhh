@@ -175,20 +175,20 @@ Shery.makeMagnet(".magnet");
 
 function homeAnimation() {
     var tl = gsap.timeline()
-    // tl.from(".home",{
-    //     transform:"scaleX(.7) translateY(90%)",
-    //     borderRadius:"100px",
-    //     duration:2.5,
-    //     ease: "expo.out"
-    // })
-    // tl.from(".nav",{
-    //     y:-100,
-    //     stagger:0.2,
-    //     duration:0.8
-    // })
-    // tl.from(".home div",{
-    //     opacity: 0
-    // })
+    tl.from(".home",{
+        transform:"scaleX(.7) translateY(90%)",
+        borderRadius:"100px",
+        duration:2.5,
+        ease: "expo.out"
+    })
+    tl.from(".nav",{
+        y:-100,
+        stagger:0.2,
+        duration:0.8
+    })
+    tl.from(".home div",{
+        opacity: 0
+    })
     tl.from(".avinasxhhh h1 span", {
         y: 300,
         stagger: 0.2,
