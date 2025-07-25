@@ -1,22 +1,22 @@
-<h1 align="center">Hi, I'm Avinash 👋</h1>
+<h1 align="center">Hi, I'm Avinash</h1>
 
 <p align="center">
   <b>Creative Front-End Developer</b><br>
-  I build interactive, animated, and design-driven websites that feel alive 🎨⚡
+  I build interactive, design-driven websites that feel alive through motion, flow, and detail.
 </p>
 
 ---
 
-### ✨ What I Love
+### What I Love
 
-- 🎯 Front-end development with a focus on UI/UX  
-- ✏️ Turning design into digital experiences  
-- 🧪 Scroll-based animations & microinteractions  
-- 📐 Clean layout, smooth motion, creative code  
+- Front-end development with a UI/UX focus  
+- Designing smooth, scroll-based web interactions  
+- Blending design, code, and storytelling  
+- Creating clean, modern digital experiences
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,github,git,figma,photoshop,illustrator" />
@@ -24,10 +24,18 @@
 
 ---
 
-### 📫 Contact Me
+### Currently
 
-- 📧 **Email:** avinashmundhe1050@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/avinasxhhh](https://www.linkedin.com/in/avinasxhhh)
+- 📍 Based in India  
+- 🔍 Open to joining creative digital studios and front-end teams  
+- 🎯 Focused on crafting web experiences that are bold, animated, and user-first
+
+---
+
+### Contact
+
+- Email: avinashmundhe1050@gmail.com  
+- LinkedIn: www.linkedin.com/in/avinasxhhh
 
 ---
 
