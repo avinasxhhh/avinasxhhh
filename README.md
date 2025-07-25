@@ -1,46 +1,54 @@
-<h1 align="center">Hi 👋, I'm Avinash Mundhe</h1>
-<h3 align="center">I design & build interactive web experiences that move.</h3>
+<h1 align="center">Hi, I'm Avinash 👋</h1>
 
 <p align="center">
-  🚀 Front-End Developer | UI/UX Enthusiast | Motion-Lover <br>
-  🎨 Blending design & code to create scroll, emotion & story. <br>
-  🌐 Currently open to work with creative studios & digital agencies. 
+  <b>Creative Front-End Developer</b><br>
+  I build interactive, animated, and design-driven websites that feel alive 🎨⚡
 </p>
 
 ---
 
-### ✨ About Me
+### ✨ What I Love
 
-- 🧠 Always exploring how websites **feel**, not just how they work.  
-- 🎥 Passionate about **scroll animations, micro-interactions, and smooth transitions**.  
-- 💻 I build projects that are **bold, responsive, and user-focused**.  
-- 🎯 On a mission to craft **memorable digital journeys**, one pixel at a time.
-
----
-
-### 🛠️ Tools I Love Working With
-
-**Languages & Frameworks:**  
-`HTML` `CSS` `JavaScript` `React.js` `Tailwind CSS`  
-
-**Motion & Animation:**  
-`GSAP` `Locomotive Scroll` `Framer Motion`
-
-**Design Tools:**  
-`Figma` `Photoshop` `Illustrator` `Canva`
-
-**Others:**  
-`Git` `GitHub` `Firebase (basic)` `VS Code`
+- 🎯 Front-end development with a focus on UI/UX  
+- ✏️ Turning design into digital experiences  
+- 🧪 Scroll-based animations & microinteractions  
+- 📐 Clean layout, smooth motion, creative code  
 
 ---
 
-### 📬 Let’s Connect
+### 🛠 Tech Stack
 
-- 📧 Email: avinashmundhe1050@gmail.com   
-- 🔗 LinkedIn : www.linkedin.com/in/avinasxhhh
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,github,git,figma,photoshop,illustrator" />
+</p>
 
 ---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live | Code |
+|--------|-------------|------|------|
+| **BMW Reimagined** | Modern redesign with GSAP + scroll magic | [Live](#) | [GitHub](#) |
+| **99Invites** | Smooth horizontal scroll wedding invite website | [Live](#) | [GitHub](#) |
+| **Interior Design Website** | Elegant agency site with motion UI | [Live](https://interiorvision.vercel.app) | [GitHub](https://github.com/avinashmundhe/interior-design-agency) |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <i>"Design it. Animate it. Build it. Repeat."</i> 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashmundhe&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmundhe&theme=tokyonight" />
 </p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 **Email:** avinashmundhe1050@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/avinasxhhh](https://www.linkedin.com/in/avinasxhhh)
+
+---
+
+<p align="center"><i>“Great design is invisible, but great experiences are unforgettable.”</i></p>
