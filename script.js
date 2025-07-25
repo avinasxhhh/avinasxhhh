@@ -32,7 +32,7 @@ function loco() {
 
 }
 
-document.addEventListener('contextmenu', event => event.preventDefault());
+// document.addEventListener('contextmenu', event => event.preventDefault());
 
 function menu() {
     const menu = document.getElementById('nav');
@@ -78,7 +78,7 @@ function menu() {
     frame1.addEventListener("mousemove", function (dets) {
         gsap.to("#text", {
             duration: .3,
-            y: "-7vw"
+            y: "-5vw"
         })
     })
     frame1.addEventListener("mouseleave", function (dets) {
@@ -94,7 +94,7 @@ function menu() {
     frame2.addEventListener("mousemove", function (dets) {
         gsap.to("#text2", {
             duration: .3,
-            y: "-7vw"
+            y: "-5vw"
         })
     })
     frame2.addEventListener("mouseleave", function (dets) {
@@ -109,7 +109,7 @@ function menu() {
     frame3.addEventListener("mousemove", function (dets) {
         gsap.to("#text3", {
             duration: .3,
-            y: "-7vw"
+            y: "-5vw"
         })
     })
     frame3.addEventListener("mouseleave", function (dets) {
@@ -124,7 +124,7 @@ function menu() {
     frame4.addEventListener("mousemove", function (dets) {
         gsap.to("#text4", {
             duration: .3,
-            y: "-7vw"
+            y: "-5vw"
         })
     })
     frame4.addEventListener("mouseleave", function (dets) {
@@ -311,7 +311,7 @@ function explorepageAnimation() {
     }, "a");
 }
 
-explorepageAnimation();
+// explorepageAnimation();
 
 function exploreTextAnimation() {
     var tl = gsap.timeline({
