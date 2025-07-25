@@ -24,26 +24,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Live | Code |
-|--------|-------------|------|------|
-| **BMW Reimagined** | Modern redesign with GSAP + scroll magic | [Live](#) | [GitHub](#) |
-| **99Invites** | Smooth horizontal scroll wedding invite website | [Live](#) | [GitHub](#) |
-| **Interior Design Website** | Elegant agency site with motion UI | [Live](https://interiorvision.vercel.app) | [GitHub](https://github.com/avinashmundhe/interior-design-agency) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashmundhe&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmundhe&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - 📧 **Email:** avinashmundhe1050@gmail.com  
